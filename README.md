@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Ayushman Sinha
 
-<!--
-**Ayushman00/Ayushman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about:
 
-Here are some ideas to get you started:
+- 🔭 Working on [your projects or areas]
+- 🌱 Learning React.js,Node.js,NoSQL,Next.js
+- 📫 How to reach me: rayushman04@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+
+![Your skills badges or icons, e.g.,](https://skillicons.dev/icons?i=python,js,react,html,css,git)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+<!-- You can also add GitHub streaks, top languages, etc. -->
+
+---
+
+Thanks for stopping by! ⭐️
