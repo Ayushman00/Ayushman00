@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about:
 
 ## 🛠️ Languages & Tools
 
-![Your skills badges or icons, e.g.,](https://skillicons.dev/icons?i=python,js,react,html,css,git)
+![Your skills badges or icons, e.g.,](https://skillicons.dev/icons?i=python,js,react,html,css,git,c++)
 
 ## 📊 GitHub Stats
 
