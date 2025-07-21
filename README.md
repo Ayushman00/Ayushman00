@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about:
 
-- 🔭 Working on [your projects or areas]
+- 🔭 Working on fullstack development
 - 🌱 Learning React.js,Node.js,NoSQL,Next.js
 - 📫 How to reach me: rayushman04@gmail.com
 
